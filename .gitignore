@@ -1,0 +1,5 @@
+video_encoder/node_modules/
+backend/node_modules/
+# Keep environment variables out of version control
+video_encoder/.env
+video_encoder/keys.json
